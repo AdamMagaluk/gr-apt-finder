@@ -1,0 +1,17 @@
+{
+  "name": "gr-apt-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-parcels.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "fast-csv": "^1.0.0",
+    "node-dbf": "^0.1.0",
+    "request": "^2.69.0"
+  }
+}
